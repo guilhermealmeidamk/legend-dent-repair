@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --color-graphite: #0e1116;
+  --color-gunmetal: #171c24;
+  --color-gold: #c8a24b;
+  --color-silver: #e8eaed;
+  --color-steel: #9aa3af;
+  --color-signal: #1e7f4f;
+}
+
+@theme inline {
+  --color-graphite: var(--color-graphite);
+  --color-gunmetal: var(--color-gunmetal);
+  --color-gold: var(--color-gold);
+  --color-silver: var(--color-silver);
+  --color-steel: var(--color-steel);
+  --color-signal: var(--color-signal);
+  --font-display: var(--font-saira-condensed);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-plex-mono);
+}
+
+body {
+  background: var(--color-graphite);
+  color: var(--color-silver);
+  font-family: var(--font-sans);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-gold);
+  outline-offset: 2px;
+}
