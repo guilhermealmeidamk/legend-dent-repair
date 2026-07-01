@@ -3,7 +3,7 @@ export const siteConfig = {
   name: "Legend Dent Repair",
   tagline: "Atlanta's Dent Repair Legend",
   description:
-    "Fast, affordable paintless dent repair across Greater Atlanta. Free estimates — text us a photo of your dent. No repaint, no filler, no Carfax.",
+    "Fast, affordable paintless dent repair (PDR) across Greater Atlanta — the trusted body shop alternative. Free estimates — text us a photo of your dent. No repaint, no filler, no Carfax record.",
   url: "https://legenddentrepair.com",
   phoneDisplay: "(404) 555-0123",
   phoneRaw: "+14045550123",

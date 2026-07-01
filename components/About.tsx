@@ -10,8 +10,9 @@ export default function About() {
         <p className="mt-4 text-steel">
           {siteConfig.name} was built on one belief: a dent shouldn&apos;t
           cost you a week and a repaint. We&apos;re paintless dent repair
-          specialists serving Greater Atlanta — fast, precise, and obsessed
-          with leaving your car exactly the way the factory built it.
+          (PDR) specialists serving Greater Atlanta — the body shop
+          alternative, fast, precise, and obsessed with leaving your car
+          exactly the way the factory built it.
         </p>
         <p className="mt-4 text-steel">
           We&apos;re mobile by design — no shop to drive to, no car to drop

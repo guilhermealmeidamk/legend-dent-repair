@@ -1,8 +1,8 @@
 const badges = [
-  "Free Estimates",
-  "We Come to You",
+  "Free Dent Repair Estimates",
+  "Mobile Service — We Come to You",
   "No Carfax Report",
-  "Insurance & Hail Damage",
+  "Hail Damage & Insurance Claims",
 ];
 
 export default function TrustBar() {

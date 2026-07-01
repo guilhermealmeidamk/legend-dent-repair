@@ -9,16 +9,17 @@ export default function Hero() {
       <div className="absolute inset-0 bg-gradient-to-br from-graphite via-gunmetal to-graphite" />
       <div className="relative mx-auto max-w-6xl px-4 py-20 sm:px-6 sm:py-28">
         <p className="font-mono text-xs uppercase tracking-[0.2em] text-gold">
-          Greater Atlanta &middot; Paintless Dent Repair
+          Greater Atlanta &middot; Paintless Dent Repair (PDR)
         </p>
         <h1 className="mt-4 max-w-2xl font-display text-4xl font-extrabold leading-tight text-silver sm:text-6xl">
           Atlanta&apos;s Dent Repair Legend
         </h1>
         <p className="mt-6 max-w-xl text-lg text-steel">
-          We come to your home or office for paintless dent repair across
-          Greater Atlanta. Faster and more affordable than a body shop — and
-          we keep your factory finish. Free estimates in minutes: just text
-          us a photo of your dent.
+          The body shop alternative — mobile service for paintless dent
+          repair (PDR), anywhere in Greater Atlanta. Faster and more
+          affordable than a traditional body shop, and we keep your factory
+          finish intact. Free estimates in minutes: just text us a photo of
+          your dent.
         </p>
 
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">

@@ -14,7 +14,7 @@ const steps = [
   {
     number: "03",
     title: "We Come to You",
-    text: "Pick a time that works. We bring the shop to your home or office — no drop-off, no rental car.",
+    text: "Pick a time that works. Our mobile service brings the shop to you — no drop-off, no rental car.",
   },
   {
     number: "04",

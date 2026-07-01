@@ -4,6 +4,7 @@ const cases = [
   { caption: "Roof — multi-dent repair", beforeSrc: "/b1.jpeg", afterSrc: "/b2.jpeg" },
   { caption: "Mercedes-Benz — hood dent", beforeSrc: "/meca2.jpeg", afterSrc: "/meca1.jpeg" },
   { caption: "Honda — door dent", beforeSrc: "/h1.jpeg", afterSrc: "/h2.jpeg" },
+  { caption: "Door panel — dent repair", beforeSrc: "/p1_before.jpeg", afterSrc: "/p2_after.jpeg" },
 ];
 
 export default function BeforeAfter() {
