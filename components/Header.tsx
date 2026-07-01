@@ -13,7 +13,7 @@ const navLinks = [
 
 export default function Header() {
   return (
-    <header className="sticky top-0 z-40 border-b border-white/10 bg-graphite/95 backdrop-blur">
+    <header className="sticky top-0 z-40 border-b border-white/10 bg-black/100 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
         <Link href="#top" aria-label={siteConfig.name} className="shrink-0">
           <Image
@@ -43,7 +43,7 @@ export default function Header() {
           </a>
           <a
             href={telHref}
-            className="rounded-md border border-white/15 px-3 py-2 text-sm font-medium text-silver hover:border-gold hover:text-gold transition-colors"
+            className="rounded-md border border-gold/90 px-3 py-2 text-sm font-medium text-silver hover:border-gold hover:text-gold transition-colors"
           >
             {siteConfig.phoneDisplay}
           </a>

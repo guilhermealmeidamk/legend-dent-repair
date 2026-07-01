@@ -3,7 +3,7 @@ import { siteConfig, telHref } from "@/lib/site-config";
 
 export default function Footer() {
   return (
-    <footer className="bg-graphite pb-20 lg:pb-0">
+    <footer className="bg-black pb-20 lg:pb-0">
       <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
         <div className="grid gap-8 sm:grid-cols-3">
           <div>
